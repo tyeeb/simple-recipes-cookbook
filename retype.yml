@@ -1,7 +1,7 @@
-url: cookbook.eirik.re/
+url: tyeeb.github.io/simple-recipes-cookbook/edit/
 locale: no
 edit:
-  repo: github.com/engeir/simple-recipes-cookbook/edit
+  repo: github.com/tyeeb/simple-recipes-cookbook/edit
   base: /src
   label: "Rediger denne siden"
 input: ./src
